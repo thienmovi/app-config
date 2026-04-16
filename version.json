@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1+3",
+  "version": "1.0.1+4",
   "build": 1,
   "forceUpdate": true,
-  "minVersion": "1.0.1+3",
+  "minVersion": "1.0.1+4",
   "link":"https://github.com/thienmovi/app-config/releases/download/v1.0.1%2B3/app-release.apk"
 }
